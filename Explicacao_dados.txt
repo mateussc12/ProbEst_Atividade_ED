@@ -1,0 +1,28 @@
+#--------------------------------------------------------------------------------------------------
+ID: Identificador
+V1: Nome do municípios
+V2: Matrículas no ensino fundamental [ano 2018]	
+V3: Docentes no ensino fundamental [ano 2018]	
+V4: Número de estabelecimentos de ensino fundamental [ano 2018]	
+V5: Taxa de escolarização de 6 a 14 anos de idade [IBGE, Censo Demográfico 2010]	
+V6: IDEB – Anos iniciais do ensino fundamental (Rede pública) [INEP - Censo Educacional 2017]	
+V7: IDEB – Anos finais do ensino fundamental (Rede pública) [INEP - Censo Educacional 2017]
+#--------------------------------------------------------------------------------------------------
+Fonte 1 - panorama_configuration_municipio_taxa_escolarizacao: 
+IBGE, Censo Demográfico 2010
+
+Fonte 2 - panorama_configuration_municipio_ideb_anos_iniciais_fundamental: 
+Ministério da Educação, Instituto Nacional de Estudos e Pesquisas Educacionais - INEP, Censo Educacional 2017
+
+Fonte 3 - panorama_configuration_municipio_ideb_anos_finais_fundamental: 
+Ministério da Educação, Instituto Nacional de Estudos e Pesquisas Educacionais - INEP, Censo Educacional 2017
+
+Nota 1 - panorama_configuration_municipio_matriculas_fundamental: 
+Inclui matrículas do ensino fundamental de 8 e 9 anos de ensino regular e/ou especial
+
+Nota 2 - panorama_configuration_municipio_docentes_ensino_fundamental: 
+Os docentes são contados uma única vez, independente se atuam em mais de uma região geográfica, unidade da federação, município ou Etapa de Ensino e Dependência Administrativa
+
+Nota 3 - panorama_configuration_municipio_taxa_escolarizacao: 
+[população residente no município de 6 a 14 anos de idade matriculada no ensino regular/total de população residente no município de 6 a 14 anos de idade] x 100
+#--------------------------------------------------------------------------------------------------
